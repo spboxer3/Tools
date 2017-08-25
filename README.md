@@ -1,2 +1,5 @@
 # Tools
-proxy switcher
+Proxy switcher
+----
+Change the proxy to open/close
+
